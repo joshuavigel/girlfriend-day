@@ -13,7 +13,7 @@ const LETTER_TEXT = `To my lovely girlfriend,
 
 I know I can't give you flowers in person so I did my best to bring them here!
 
-It's been a really great few months with you. You are the sweetest person I know, and I feel so grateful that I met you.
+I have a lot of great memories but here's one that I always think of. The second time I went to visit you in Flower Mound. We were in my car in the parking lot, and I remember I saw you smile and it just melted my heart. The first time I've ever felt like that. It made me feel fulfilled. Like, it was what I was meant to do. I hope this letter makes you smile just like that. 😊
 
 I know it's hard only being able to text. We spend just as much time on facetime as in real life. But seeing you that weekend made me realize then it was all worth it - even just for a few days.
 

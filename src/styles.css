@@ -334,9 +334,9 @@ body {
   position: relative;
   z-index: 7;
   width: min(68vw, 268px);
-  max-height: 60vh;
+  max-height: 68vh;
   /* centred grid item: the margin lifts it half that much, clearing the bouquet */
-  margin-bottom: 16vh;
+  margin-bottom: 11vh;
   padding: 20px 18px 22px;
   border-radius: 10px;
   background: linear-gradient(180deg, var(--paper) 0%, #fdf8ff 100%);
@@ -396,10 +396,10 @@ body {
 }
 
 .letter-text {
-  margin: 0 0 0.62em;
+  margin: 0 0 0.52em;
   font-family: 'Caveat', cursive;
-  font-size: clamp(0.98rem, 4.05vw, 1.12rem);
-  line-height: 1.44;
+  font-size: clamp(0.94rem, 3.85vw, 1.06rem);
+  line-height: 1.4;
   color: #4a3568;
   white-space: pre-wrap;
 }
@@ -442,9 +442,9 @@ body {
   left: 2px;
   right: 2px;
   bottom: 2px;
-  height: 54px;
+  height: 38px;
   border-radius: 0 0 10px 10px;
-  background: linear-gradient(180deg, rgba(255, 253, 248, 0) 0%, #fdf8ff 72%);
+  background: linear-gradient(180deg, rgba(255, 253, 248, 0) 0%, #fdf8ff 78%);
   display: grid;
   align-items: end;
   justify-items: center;
