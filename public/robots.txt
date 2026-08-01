@@ -1,2 +1,6 @@
+# Crawling is allowed on purpose: link-preview bots (iMessage, WhatsApp, etc.)
+# need to fetch the page to show the "surprise!" card, and search engines must be
+# able to read the <meta name="robots" content="noindex"> tag to honour it.
+# A blanket Disallow would hide that tag and break previews.
 User-agent: *
-Disallow: /
+Allow: /
